@@ -1,0 +1,2 @@
+This project is to create an Index page with links to recipes.
+This is to learn more about HTML and CSS and how to make a new repository on Github, clone it to my local machine and commit and upload back to Github.
